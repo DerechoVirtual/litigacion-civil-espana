@@ -1,0 +1,13 @@
+{
+    "name":  "litigacion-civil-espana",
+    "owner":  {
+                  "name":  "Despacho de Abogados"
+              },
+    "plugins":  [
+                    {
+                        "name":  "litigacion-civil-espana",
+                        "source":  "./",
+                        "description":  "Litigacion civil, mercantil y de familia (Espana). LO 1/2025, LEC, EGA. Conectores: Jurisprudenciator (CENDOJ) + Dropbox."
+                    }
+                ]
+}

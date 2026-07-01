@@ -1,0 +1,15 @@
+{
+    "mcpServers":  {
+                       "jurisprudenciator":  {
+                                                 "type":  "http",
+                                                 "url":  "https://mcp.jurisprudenciator.lexiaipro.org/mcp"
+                                             },
+                       "dropbox":  {
+                                       "type":  "http",
+                                       "url":  "https://mcp.dropbox.com/mcp"
+                                   }
+                   },
+    "recommendedCategories":  [
+                                  "legal"
+                              ]
+}
